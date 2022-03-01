@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi
+
+I'll get to adding more stuff here later
 
 <!--
 **8bitkitkat/8bitkitkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
