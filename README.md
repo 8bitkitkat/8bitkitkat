@@ -1,18 +1,14 @@
-### Hi
+# Hello there
 
-I'll get to adding more stuff here later
+I'm Ketan.
 
-<!--
-**8bitkitkat/8bitkitkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working on [Zinc](https://github.com/8bitkitkat/zinc).
+You can learn more about it in its repo.
 
-Here are some ideas to get you started:
+I mostly code in rust, zig and c/c++(begrudgingly),
+but I still end up using languages like c#, typescript, java and kotlin often enough.
+As long as imperative and not a lisp, I can program in it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mostly focus on what could be called the user/developer experience, that's making it run fast and efficiently, making it ergonomic and making it easy to understand while maximizing user control and not oversimplifying.
+
+[Paypal donation link](https://www.paypal.com/donate/?hosted_button_id=Q5MADSJCH8KFG)
