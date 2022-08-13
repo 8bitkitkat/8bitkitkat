@@ -2,7 +2,7 @@
 
 I'm Ketan.
 
-I’m currently working on [Zinc](https://github.com/8bitkitkat/zinc).
+I’m currently working on [Zinc](https://github.com/tealsnow/zinc).
 You can learn more about it in its repo.
 
 I mostly code in rust, zig and c/c++(begrudgingly),
